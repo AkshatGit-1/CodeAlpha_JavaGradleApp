@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/AkshatGit-1/CodeAlpha_JavaGradleApp/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/AkshatGit-1/CodeAlpha_JavaGradleApp/actions/workflows/ci-cd.yml)
+
 # 🚀 CodeAlpha Internship - Task 3
 ## Java Application using Gradle
 
