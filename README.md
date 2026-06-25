@@ -1,7 +1,6 @@
 [![Java CI with Gradle](https://github.com/AkshatGit-1/CodeAlpha_JavaGradleApp/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/AkshatGit-1/CodeAlpha_JavaGradleApp/actions/workflows/ci-cd.yml)
 
-# 🚀 CodeAlpha Internship - Task 3
-## Java Application using Gradle
+# Java Application using Gradle
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
 ![Gradle](https://img.shields.io/badge/Gradle-9.5.1-02303A?style=for-the-badge&logo=gradle)
@@ -116,5 +115,4 @@ The following coverage validation matrix represents the compiled metrics evaluat
 ## 👨‍💻 Developer Info
 * **Name:** Akshat Vishnoi
 * **Role:** DevOps Intern
-* **Organization:** CodeAlpha
 * **Project:** Automated Student Management Application using Advanced Gradle Packaging Structures
